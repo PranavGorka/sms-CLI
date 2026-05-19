@@ -3,13 +3,6 @@ package stockmanagement;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/**
- * Stock Management System — CLI Application
- * 4th Semester CSE Practical — Assignment 1
- *
- * Operations : CRUD + Search + Sort + File Handling
- * Author      : [Your Name]
- */
 public class Main {
 
     private static final Scanner sc = new Scanner(System.in);
